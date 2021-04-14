@@ -1,2 +1,3 @@
 # Interactive-Python-Dashboards-with-Plotly-and-Dash
-Interactive Python Dashboards with Plotly and Dash by Jose Portilla on Udemy.
+
+Course work and notes from Udemy course by Jose Portilla.
