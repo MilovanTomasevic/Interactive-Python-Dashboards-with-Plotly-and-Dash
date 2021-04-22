@@ -1,6 +1,6 @@
 # Interactive-Python-Dashboards-with-Plotly-and-Dash
 
-Learn how to write readable, understandable and therefore maintainable code - step by step, in an example-driven way
+Learn how to create interactive plots and intelligent dashboards with Plotly, Python, and the Dash library!
 
 ### Certifications
 
