@@ -4,7 +4,7 @@ Learn how to create interactive plots and intelligent dashboards with Plotly, Py
 
 ### Certifications
 
-- [Certificate](https://nlb.udemy.com/certificate/UC-695de6ab-b1ca-4e3b-b068-5c2b8cde6293/)
+- [Certificate](https://udemy.com/certificate/UC-695de6ab-b1ca-4e3b-b068-5c2b8cde6293/)
 
 ### Awknowledgements
 
